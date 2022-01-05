@@ -1,0 +1,36 @@
+body {
+  background-image: url("bg.gif");
+  background-size: 100%;
+  align-content: center;
+  text-align: center;
+}
+
+h1
+{
+  padding-top: 50px;
+  font-size: 85px;
+  text-align: center;
+}
+h3
+{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.card 
+{
+  margin-bottom: 15px;
+  padding: 10%;
+  margin: 8%;
+  font-size: 20px;
+}
+
+.card-title
+{
+  font-size: 50px;
+}
+
+.card-img-top
+{
+  padding: 20%;
+}
